@@ -5,5 +5,5 @@ Merei
 <l1>
 <a href="www.google.com">ui</a>
 </l1>
-<button><strong>Don't starve together ദ്ദി( • ᴗ - ) ✧</strong></strong>
+<button> <strong> Don't starve together ദ്ദി( • ᴗ - ) ✧</strong></strong>
 </html>
